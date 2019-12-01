@@ -6,6 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-{% capture images %}(/assets/img/test.jpg){% endcapture %} {% include gallery images=images cols=1 %}
+{% capture images %}https://www.flickr.com/photos/185801550@N06/49150197558{% endcapture %} {% include gallery images=images cols=1 %}
 
 I am a Security Engineer by profession. I write this blog to share my thoughts, learnings, and experiences on Infosec and life in general. I’m having 6 years of experience in Information Security Field. My skill set includes Web Application Security,Implementing solutions for DDoS Mitigation,Designing detection mechanism for Bots,Incident Response, Intrusion Analysis, and Network Security Monitoring. I am passionate about information security field and try to learn new technologies related to it. I love reading non-fiction books and travelling to remote places around the world.
