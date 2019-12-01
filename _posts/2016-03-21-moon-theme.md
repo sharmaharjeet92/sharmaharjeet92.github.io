@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "My Projects"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Some Tools I use in my day to day life"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
+- tools 
+- python
+- daily
 - about
-- theme
 comments: true
 ---
 
