@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Harjeet Sharma
+bio:                'An information Security Enthusiast'
+description:        "A Place to organise my thoughts"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,23 +38,23 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            https://twitter.com/sharmaharjeet
+#facebook:           username
+github-url:         https://github.com/sharmaharjeet92/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/harjeetsharma/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-#youtube:           username
+#youtube:            
 #youtube-channel:   channel
-#soundcloud:        username
+soundcloud:        https://soundcloud.com/harjeet-sharma
 #weibo:             username
 #flickr:            username
 #codepen:           username
