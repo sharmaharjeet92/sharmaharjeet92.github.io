@@ -20,7 +20,7 @@ This small project came to picture when lastest version of Curl(curl 7.65.2) sta
 
 ---
 
-## <a href="https://github.com/sharmaharjeet92/scripts/blob/master/PyBot/cred-bot.py" class="btn btn-success">Header Order</a>
+## <a href="https://github.com/sharmaharjeet92/scripts/blob/master/PyBot/cred-bot.py" class="btn btn-success">Credential Stuffing Bot</a>
 This is a small scraping Bot which sends password in certain order to the login endpoint. The version present here is only for educational usuage. Advance version of this can be implemented using multithreading and mimicing the human movements in random order to evade the Bot Management solutions.
 
 ---
