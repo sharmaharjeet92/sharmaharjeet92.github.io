@@ -24,3 +24,9 @@ This small project came to picture when lastest version of Curl(curl 7.65.2) sta
 This is a small scraping Bot which sends password in certain order to the login endpoint. The version present here is only for educational usuage. Advance version of this can be implemented using multithreading and mimicing the human movements in random order to evade the Bot Management solutions.
 
 ---
+
+## <a href="https://github.com/sharmaharjeet92/scripts/blob/master/apache_log_parser.py" class="btn btn-success"> Apache Log Parser </a>
+This script can be used to parse apache logs and will give top IP address, URLs and Status Code. Furthermore,the logic can be extended to parse any type of log file and then calculating various dimensions.
+
+---
+
