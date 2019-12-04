@@ -30,3 +30,7 @@ This script can be used to parse apache logs and will give top IP address, URLs 
 
 ---
 
+## <a href="https://github.com/sharmaharjeet92/scripts/blob/master/ip2geo_bulk.py" class="btn btn-success"> IP2Geo Location </a>
+It is useful where you have bunch of IPs and you want to know the Geo Location of it. The use case is to find anomaly from a specific ASN and GEO location.
+
+---
