@@ -24,10 +24,10 @@ All in all, if I desire to summarize my background before attempting OSCP, it wo
 ## Before Booking the Exam
 
 Approximately 2-3 Months before booking the exam, I started working on refreshing the basics of Linux and upgrading my knowledge on it, practicing more on python codes, reading more about Web Application Security and OWASP Top 10. (Hacker’s Handbook, 2nd Edition Helped me). Additionally, I started solving challenges on OverTheWire (Bandit and Natas). Solving OverTheWire challenges will yield you a mindset to solve similar problems. In Summary, below were the resources that I had used before booking the exam:
-   *Linux Journey
-   *OverTheWire(Bandit and Natas)
-   *Python Programming
-   *Understanding the Basics of Assembly Language.
+   * Linux Journey
+   * OverTheWire(Bandit and Natas)
+   * Python Programming
+   * Understanding the Basics of Assembly Language.
           
 But If I could go back in that time, I would have done a few of the <a href="https://www.vulnhub.com/">VulnHub</a>, <a href="https://www.hackthebox.eu/">HackTheBox machines</a> and would have watched <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IPPSec</a> on YouTube. I would highly recommend watching the IPPSec video whenever you get time, trust me every time you will learn a new trick which will aid you in the exam. Just before booking the exam, just ask yourself:
 
