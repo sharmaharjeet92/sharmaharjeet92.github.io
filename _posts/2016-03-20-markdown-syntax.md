@@ -12,8 +12,8 @@ tag:
 comments: true
 ---
 
-If you're searching for KeyWords *"My OSCP Journey "* on Google, there are possibly 2000 + blogs with the same name, then the question comes up as to why I want to put another on earth?It's because so many friends, colleagues and LinkedIn Connections have asked me about the manner in which I planned my OSCP.Perhaps because they could relate more to me. Hence,I thought of jotting down my journey of passing the OSCP. 
-Probably there are* n* number of good ways to get to OSCP, I'll list what worked for me. Hopefully, in some ways it will inspire you. So let's start without any additional ado.
+If you're searching for KeyWords *"My OSCP Journey "* on Google, there are possibly 2000 + blogs with the same name, so why have I taken the trouble to post yet another one? It's because so many friends, colleagues and LinkedIn Connections have asked me about the manner in which I planned my OSCP.Perhaps because they could relate more to me. Hence,I thought of jotting down my journey of passing the OSCP. 
+Probably there are *n* number of good ways to get to OSCP, I'll list what worked for me. Hopefully, in some ways it will inspire you. So let's start without any additional ado.
 # Heading 1
 
 ## Heading 2
