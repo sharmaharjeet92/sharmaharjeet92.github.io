@@ -1,20 +1,19 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "My OSCP Journey"
+date:   2019-12-08
+excerpt: "My thoughts and approach to OSCP Exam"
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- OSCP 
+- Pentesting
+- Beginner
+- Offensive Security
+- Exam Preparation 
 comments: true
 ---
 
-## HTML Elements
-
-Testing the Text
+If you're searching for KeyWords *"My OSCP Journey "* on Google, there are possibly 2000 + blogs with the same name, then the question comes up as to why I want to put another on earth?It's because so many friends, colleagues and LinkedIn Connections have asked me about the manner in which I planned my OSCP.Perhaps because they could relate more to me. Hence,I thought of jotting down my journey of passing the OSCP. 
+Probably there are* n* number of good ways to get to OSCP, I'll list what worked for me. Hopefully, in some ways it will inspire you. So let's start without any additional ado.
 # Heading 1
 
 ## Heading 2
