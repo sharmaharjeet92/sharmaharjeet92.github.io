@@ -57,10 +57,21 @@ After solving the machine, take as much as screenshot possible. I have seen many
 
 After finishing the exam, you have 24 hours to submit the exam report along with lab exercise if you are going behind the 5 points. Once you upload the report, you need to send them an email informing the same. The will acknowledge if your report is successfully submitted for review. Reach out to the OffSec team if you haven’t received an acknowledgment from them. Lastly, I would recommend reading below 2 pages again and again as it will answer a bunch of your doubts about the exam.
 
- <a href="https://support.offensive-security.com/#!oscp-exam-guide.md">Exam and Reportingrequirements </a> 
+ <a href="https://support.offensive-security.com/#!oscp-exam-guide.md">Exam and Reporting requirements </a> 
  
  
  <a href="https://support.offensive-security.com/#!pwk-support.md">PWK Support Page </a>
+ 
+
+<a href="#" class="btn btn-success">Resources:</a>
+During your exam preparation you have to search and read a lot of Blogs. Instead of giving you an exhaustive list of resources.I think consolidated list below help you:
+
+ <a href="https://github.com/0x4D31/awesome-oscp/blob/master/README.md">Awesome OSCP </a>
+ 
+ <a href="https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/">OffSec Bookmarks </a>
+ 
+
+
 
 ## FAQ
 **Q: Do I need to be well versed in Programming?**
