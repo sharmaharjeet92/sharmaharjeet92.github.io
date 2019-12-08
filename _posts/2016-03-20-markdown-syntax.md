@@ -64,20 +64,26 @@ After finishing the exam, you have 24 hours to submit the exam report along with
 
 ## FAQ
 **Q: Do I need to be well versed in Programming?**
+
 **A:** *During your course, there will be a lot of exploits written in various languages, you should be able to modify the interesting piece of it according to you. With that being said, I think if you can understand what exactly is happening the code and then modify a part of it then you are good to go.*
 
 **Q: How many hours per day should be sufficient to clear the exam?**
+
 **A:** *Clearing the exam shouldn’t be your only goal :P. If you are working, I can understand taking the time out for study could be hard. I had made my target to give at least 2-3 hrs on weekdays and 8-9 hours on the weekend. Luckily, I was working in with Akamai at that time and I had a 3 day week off, which gave me a good time to prepare for my exam. I remember taking 5 days leaves before my lab was about to finish.*
 
 **Q: Should I renew my OSCP Lab or Go with HTB?**
+
 **A:** *In my opinion, it depends upon how many machines in the lab you have cracked so far. If it is somewhere near to 30+ then I would recommend taking the HTB as it will provide you machines with the latest vulnerabilities. If it is less than 20 or below, then I think it is better to continue with the OSCP labs renewal. An advantage of renewing the lab is that you can reschedule your exam for a long time.*
 
 **Q: What type of Tools I can use in the exam?**
+
 **A:** *Read the Exam Requirement provided by OffSec. In Short, anything which can automate the process of exploitation that is not allowed. The main focus, of course, is to learn the techniques to exploit the machines. Hence, tools such as SQLMap, RotenPotato, ExploitSuggestor are not allowed in the exam but tools such as Nikto, DirBuster, GoBuster, etc.*
 
 **Q: Does this course/exam good for me?**
+
 **A:** *If you are reading this blog, you might have already figured out how this course can help you in the future. All I can say is it will help to condition your thought process to think like an attacker. I have few blogs where people criticizing the machines in the lab have age-old vulnerabilities that are not present in current machines, but I think they are missing the whole point, the goal here to condition your thought process.*
 
 **Q: When you will receive the exam result?**
+
 **A:** *OffSec claims it to be delivered in 5 Business Days, once they have acknowledged the report you have shared. Most of the time, I have seen it would be on the 3rd Day.*
 
