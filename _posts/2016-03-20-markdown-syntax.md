@@ -64,6 +64,7 @@ After finishing the exam, you have 24 hours to submit the exam report along with
  
 
 <a href="#" class="btn btn-success">Resources:</a>
+
 During your exam preparation you have to search and read a lot of Blogs. Instead of giving you an exhaustive list of resources.I think consolidated list below help you:
 
  <a href="https://github.com/0x4D31/awesome-oscp/blob/master/README.md">Awesome OSCP </a>
