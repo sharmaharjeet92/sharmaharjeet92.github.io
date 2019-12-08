@@ -24,10 +24,10 @@ All in all, if I desire to summarize my background before attempting OSCP, it wo
 ## Before Booking the Exam
 
 Approximately 2-3 Months before booking the exam, I started working on refreshing the basics of Linux and upgrading my knowledge on it, practicing more on python codes, reading more about Web Application Security and OWASP Top 10. (Hacker’s Handbook, 2nd Edition Helped me). Additionally, I started solving challenges on OverTheWire (Bandit and Natas). Solving OverTheWire challenges will yield you a mindset to solve similar problems. In Summary, below were the resources that I had used before booking the exam:
-        * Linux Journey
-        * OverTheWire(Bandit and Natas)
-        * Python Programming
-        * Understanding the Basics of Assembly Language.
+   * Linux Journey
+   * OverTheWire(Bandit and Natas)
+   * Python Programming
+   * Understanding the Basics of Assembly Language.
           
 But If I could go back in that time, I would have done a few of the <a href="https://www.vulnhub.com/">VulnHub</a>, <a href="https://www.hackthebox.eu/">HackTheBox machines</a> and would have watched <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IPPSec</a> on YouTube. I would highly recommend watching the IPPSec video whenever you get time, trust me every time you will learn a new trick which will aid you in the exam. Just before booking the exam, just ask yourself:
 
@@ -38,91 +38,44 @@ But If I could go back in that time, I would have done a few of the <a href="htt
           
 **If you are satisfied with the responses to the above questions, then go ahead and book the exam.**
 
-#### Heading 4
+## After Booking the Exam
 
-##### Heading 5
+The course material will be supplied to you via email 24 hours before your Lab time starts. I recommend watching the videos offered as course material at first. Although the videos provided in the course material will just give you a bird's eye view, not in-depth knowledge they are good to get started and be familiar with the course synopsis. After finishing the videos, start working on the Lab Manual provided. Try to work on the exercises provided at the end of each chapter. I would recommend using a note-reading application on Kali (KeepNote or Cheery Tree). Don’t forget to take periodic backups of these notebooks as it happened with me where Cherry Tree got corrupted and I have missed my entire Lab Screenshots. The advantage of taking proper screenshots and documenting the WorkBook exercise is that when you will be submitting your Final report after the exam, you don’t need to cast an extra effort into rearranging the screenshots and explanations. Attaching the Report of WorkBook exercise and 5 Lab machines can help you earn 5 additional points. I finished my lab workbook in some 25 days. I would recommend to finish it within 15 days at max if you have used up 3 months lab. The last bit of advice in this section would be to crack each lab machine manually, as it will shape your thought process to think manually instead of automating with Metasploit. Form a habit of taking a screenshot of every successful step.
 
-###### Heading 6
 
-### Body text
+## During the Exam
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+The total duration of the exam is 23 hours and 45 minutes in which you have to achieve at least 70 out of 100 potential points to pass.
+The OSCP exam consists of 5 machines. You are provided with objectives and point values for each machine.
+* 25 point buffer overflow machine
+* 25 point behemoth riddled with rabbit holes
+* 2 x 20 point machines
+* 10 point machine
 
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
+The few basics which go without saying like *Get Proper Sleep before the Exam, Stable Internet Connection, Red Bull Cans and stable machine with a good amount of RAM*. I used my office laptop with 16 GB RAM without any additional monitors. The Offsec software which monitors our activity is very lightweight and will not add any additional burden on your machine. Some people use 2 monitors, which again depends upon how you feel comfortable. Now getting to my exam strategy, it was to start with the Buffer OverFlow first as your mind will be fresh and it carries the maximum 25 Marks. I aimed to finish it within 1-2 hours. Luckily, I was able to finish BoF within 40 mins. After finishing the Buffer Overflow, start with the 2nd 25 Mark machine and if you are not getting anywhere, even after spending 2-2.30 hours then move to the next 20 marks machine. The advantage here I feel is if you hit the big machines first it will give you the extra encouragement and confidence to move to the other machines. In General, if you feel your mind is shut down and you have reached the dead-end, stop everything, inform the examiner and take a short watch for 20-25 mins. This feeds your brain some air and fresh ideas. 
+After solving the machine, take as much as screenshot possible. I have seen many people forgetting the screenshot of the root flag without an IP destination. Although OffSec will not cut the whole points they may cut a few points because of such small errors. Use your habit of taking a screenshot of every successful step here :)
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+After finishing the exam, you have 24 hours to submit the exam report along with lab exercise if you are going behind the 5 points. Once you upload the report, you need to send them an email informing the same. The will acknowledge if your report is successfully submitted for review. Reach out to the OffSec team if you haven’t received an acknowledgment from them. Lastly, I would recommend reading below 2 pages again and again as it will answer a bunch of your doubts about the exam.
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+ <a href="https://support.offensive-security.com/#!oscp-exam-guide.md">Exam and Reportingrequirements </a> 
+ <a href="https://support.offensive-security.com/#!pwk-support.md">PWK Support Page </a>
 
-### Blockquotes
+##FAQ
+**Q: Do I need to be well versed in Programming?**
+**A:** *During your course, there will be a lot of exploits written in various languages, you should be able to modify the interesting piece of it according to you. With that being said, I think if you can understand what exactly is happening the code and then modify a part of it then you are good to go.*
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+**Q: How many hours per day should be sufficient to clear the exam?**
+**A:** *Clearing the exam shouldn’t be your only goal :P. If you are working, I can understand taking the time out for study could be hard. I had made my target to give at least 2-3 hrs on weekdays and 8-9 hours on the weekend. Luckily, I was working in with Akamai at that time and I had a 3 day week off, which gave me a good time to prepare for my exam. I remember taking 5 days leaves before my lab was about to finish.*
 
-## List Types
+**Q: Should I renew my OSCP Lab or Go with HTB?**
+**A:** *In my opinion, it depends upon how many machines in the lab you have cracked so far. If it is somewhere near to 30+ then I would recommend taking the HTB as it will provide you machines with the latest vulnerabilities. If it is less than 20 or below, then I think it is better to continue with the OSCP labs renewal. An advantage of renewing the lab is that you can reschedule your exam for a long time.*
 
-### Ordered Lists
+**Q: What type of Tools I can use in the exam?**
+**A:** *Read the Exam Requirement provided by OffSec. In Short, anything which can automate the process of exploitation that is not allowed. The main focus, of course, is to learn the techniques to exploit the machines. Hence, tools such as SQLMap, RotenPotato, ExploitSuggestor are not allowed in the exam but tools such as Nikto, DirBuster, GoBuster, etc.*
 
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+**Q: Does this course/exam good for me?**
+**A:** *If you are reading this blog, you might have already figured out how this course can help you in the future. All I can say is it will help to condition your thought process to think like an attacker. I have few blogs where people criticizing the machines in the lab have age-old vulnerabilities that are not present in current machines, but I think they are missing the whole point, the goal here to condition your thought process.*
 
-### Unordered Lists
+**Q: When you will receive the exam result?**
+**A:** *OffSec claims it to be delivered in 5 Business Days, once they have acknowledged the report you have shared. Most of the time, I have seen it would be on the 3rd Day.*
 
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
