@@ -14,11 +14,26 @@ comments: true
 
 If you're searching for KeyWords *"My OSCP Journey "* on Google, there are possibly 2000 + blogs with the same name, so why have I taken the trouble to post yet another one? It's because so many friends, colleagues and LinkedIn Connections have asked me about the manner in which I planned my OSCP.Perhaps because they could relate more to me. Hence,I thought of jotting down my journey of passing the OSCP. 
 Probably there are *n* number of good ways to get to OSCP, I'll list what worked for me. Hopefully, in some ways it will inspire you. So let's start without any additional ado.
-# Heading 1
 
-## Heading 2
 
-### Heading 3
+## My Background
+
+Before going further, let's talk a bit about my professional background. I’ve been in the security field for the final 6+ years. After finishing my graduation in Electronics and Communication, I did CCNA certification in 2013. This helped me to have a sound understanding of Networking Concepts. Then for the first 3 years of my job, I worked extensively in Network Security such as Firewalls, Routers, Switches, VPN, SSL Certificates and Proxies. It was during my third year when I began learning about the basic Linux to complete my day-to-day operations. Then for the following 3 years, I worked extensively on Web Application Security, Web Application Firewalls, DDoS Mitigation. While working for Akamai, I got in-depth knowledge of TCP/IP Layer, DNS, and HTTP/HTTPS. During this time, I started learning beginner level Python, SQL, XSS, RFI, and LFI.
+All in all, if I desire to summarize my background before attempting OSCP, it would be network security, web application security and basic knowledge of Python and Shell Scripting. In other languages such as C, Ruby, JS it would be sufficient to interpret the logic of the code.
+
+## Before Booking the Exam
+
+Approximately 2-3 Months before booking the exam, I started working on refreshing the basics of Linux and upgrading my knowledge on it, practicing more on python codes, reading more about Web Application Security and OWASP Top 10. (Hacker’s Handbook, 2nd Edition Helped me). Additionally, I started solving challenges on OverTheWire (Bandit and Natas). Solving OverTheWire challenges will yield you a mindset to solve similar problems. In Summary, below were the resources that I had used before booking the exam:
+          1.<a href="https://linuxjourney.com/">Linux Journey</a>
+          2.<a href="https://overthewire.org/wargames/">OverTheWire(Bandit and Natas)</a>
+          3.<a href="http://automatetheboringstuff.com/">Python Programming(Link Included)</a>
+          4.Understanding the Basics of Assembly Language.
+But If I could go back in that time, I would have done a few of the <a href="https://www.vulnhub.com/">VulnHub</a>, <a href="https://www.hackthebox.eu/">HackTheBox machines</a> and would have watched <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">IPPSec</a> on YouTube. I would highly recommend watching the IPPSec video whenever you get time, trust me every time you will learn a new trick which will aid you in the exam. Just before booking the exam, just ask yourself:
+          1.*Are you feeling comfortable with Linux to perform a search, grip, moving, copying, understanding various system processes?*
+          2.*What if you have an only Command Line (Linux and Windows) to perform all the work, will you be able to do it comfortably?*
+          3.*Will you be able to spot a malicious chunk of code that you have downloaded?*
+          4.*Can you explain the working of a program in terms of assembly in plain English?*
+**If you are satisfied with the responses to the above questions, then go ahead and book the exam.**
 
 #### Heading 4
 
