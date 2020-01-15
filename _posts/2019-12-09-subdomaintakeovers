@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "My Notes on SubDomain Takeovers -A Blue Team Prospective"
-date: 2019-12-09
-excerpt: "Examples and code for displaying images in posts."
-tags: [subdomain takeovers,monitoring,threat hunting]
+title:  "Test"
+date:   2019-12-09
+excerpt: "Test"
+tag:
+- OSCP 
+- Pentesting
+- Beginner
+- Offensive Security
+- Exam Preparation 
 comments: true
 ---
 
