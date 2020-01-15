@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "My Notes on SubDomain Takeovers -A Blue Team Prospective"
-date: 2013-05-22
+date: 2020-01-07
 excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+tags: [subdomain takeovers,monitoring,threat hunting]
 comments: true
 ---
 
