@@ -1,0 +1,10 @@
+---
+layout: post
+title: "My Notes on SubDomain Takeovers -A Blue Team Prospective"
+date: 2013-05-22
+excerpt: "Examples and code for displaying images in posts."
+tags: [sample post, images, test]
+comments: true
+---
+
+Subdomain takeovers are quite common these days and as **Frans Rosén** rightly said in his  <a href="https://www.youtube.com/watch?v=HhJv8CU-RIk">talk</a> that SubDomain takeovers are modern day XSS.
