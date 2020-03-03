@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Introduction to Server Hardening and creating Golden AMIs"
+date:   2020-03-03
+excerpt: "Server Hardening"
+tag:
+- Server Hardening 
+- Auiditing
+- Compliance Checks
+- CI/CD Pipeline
+- Automation 
+- DevSecOps
+- AWS
+- GoldenAMI
+comments: true
+---
+Information Security is an entire universe in itself and there is always new to learn every day. As I have made a promise with myself to document my learning, this article is a continuous effort towards that. In today's article, I will go through the basics of server hardening and will try to establish a basic understanding of the core components of this concept.In the later part of this article,we will discuss about how you can automate the process of Server Hardening and create a pipeline which automatically scan,audit new operating system images,patch them , install necessarry logging systems and bake Golden AMIs. 
